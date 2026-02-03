@@ -11,7 +11,7 @@ class Book
     // The fields.
     private String author;
     private String title;
-
+    private String name;
     /**
      * Set the author and title fields when this object
      * is constructed.
